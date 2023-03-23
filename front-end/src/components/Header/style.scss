@@ -1,0 +1,16 @@
+@import "../../assets/scss/variables";
+
+.header {
+  text-align: center;
+  max-width: 100%;
+  height: $height-header;
+  background-color: aliceblue;
+}
+.board-header {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  height: $height-board-header;
+  background-color: green;
+  color: white;
+}
